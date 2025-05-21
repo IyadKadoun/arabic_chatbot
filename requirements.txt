@@ -1,0 +1,6 @@
+langchain
+openai
+streamlit
+fastapi
+jinja2
+uvicorn
