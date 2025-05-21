@@ -1,6 +1,10 @@
-langchain
-openai
-streamlit
-fastapi
-jinja2
-uvicorn
+langchain-core==0.2.0
+langchain-community==0.2.0
+langchain-openai==0.1.3
+openai==1.30.0
+streamlit==1.35.0
+fastapi==0.111.0
+jinja2==3.1.4
+uvicorn==0.29.0
+python-multipart==0.0.9
+pydantic==2.7.1
